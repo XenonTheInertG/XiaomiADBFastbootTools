@@ -81,7 +81,7 @@ The Flasher, Wiper and Camera2 modules in Fastboot mode require an unlocked boot
 
 ### What apps are safe to uninstall?
 
-All applications in the list are safe to uninstall. You might lose access to some services but the device will keep working just fine. Some other apps, like Gallery or Security, aren't listed because uninstalling them would soft brick your device.
+All applications   in the list are safe to uninstall. You might lose access to some services but the device will keep working just fine. Some other apps, like Gallery or Security, aren't listed because uninstalling them would soft brick your device.
 
 ### What's the difference between uninstalling and disabling?
 
